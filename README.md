@@ -1,5 +1,6 @@
 # Naloxone-Information-Tracking-System
 This Naloxone Information Tracking System (NITS) was built by the Salesforce Public Sector Solution Engineering team for the Nevada Department of Health & Human Services Division of Public and Behavioral Health (NV DHHS DPBH).  The application was implemented by Salesforce Consulting partner, Publicis Sapient.
+
 Nevada Use Case: https://www.salesforce.com/customer-success-stories/nevada-department-of-health-and-human-services/
 
 
