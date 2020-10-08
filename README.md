@@ -24,7 +24,7 @@ The Naloxone Inventory Tracking System features include:
 - Dashboards
 - Global Search
 - Use of Salesforce Chatter for contextual social collaboration
-- Data Model with custom objects:  Rx_Orders__c, Units__c, Funcing_Source__c
+- Data Model with custom objects:  Rx_Orders__c, Units__c, Funding_Source__c
 
 **Application Installation & User Guide**
 
