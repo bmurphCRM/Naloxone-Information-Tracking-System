@@ -26,17 +26,10 @@ The Naloxone Inventory Tracking System features include:
 - Use of Salesforce Chatter for contextual social collaboration
 - Data Model with custom objects:  Rx_Orders__c, Units__c, Funcing_Source__c
 
-**Repository Contents and Documents:**
+**Application Installation & User Guide**
 
+The Naloxone Inventory Tracking System application is installed via a Salesforce unmanaged package.  The installation instructions and user guide can be accessed at the following link:   More information on the Force.com IDE: https://developer.salesforce.com/page/Force.com_IDE
 
-
-Salesforce Metadata Folders - The Salesforce Force.com IDE Plugin for Eclipse was used to extract all of the Central Intake Management application metadata from the Salesforce Platform. You can use this metadata to fork, then sync to your own Salesforce org or you can use the full package installation in document #2 below.  More information on the Force.com IDE: https://developer.salesforce.com/page/Force.com_IDE
-
-01 From Idea to Application in 1 Day - Child Welfare Intake Scenario.pdf - This document describes the scenario for Child Welfare agencies and their need to document all allegations for suspected abuse/neglect
-
-02 Central Intake Management Application Installation Instructions.pdf - Document that describes how to install the open source Salesforce Central Intake Management application in a free Salesforce Developer Edition (DE) environment.  (You'll be up and running in 15 minutes!)
-
-03 Salesforce Central Intake Management Application Developer Workshop - Student Guide.pdf - Complete documentation of how to build the Central Intake Management application with the Salesforce App Cloud (Force.com) platform from scratch in less than 1 day.
 
 **Example: List View of Rx Orders**
 
@@ -51,7 +44,7 @@ Salesforce Metadata Folders - The Salesforce Force.com IDE Plugin for Eclipse wa
 ![Dashboard](https://photos.smugmug.com/photos/i-h5h428D/0/062e2a03/X3/i-h5h428D-X3.jpg)
 
 **Salesforce Contact**
-Brian Murphy
-Master Solution Engineer
-Salesforce Public Sector
-b.murphy@salesforce.com
+- Brian Murphy
+- Master Solution Engineer
+- Salesforce Public Sector
+- b.murphy@salesforce.com
