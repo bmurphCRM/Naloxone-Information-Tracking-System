@@ -28,7 +28,7 @@ The Naloxone Inventory Tracking System features include:
 
 **Application Installation & User Guide**
 
-The Naloxone Inventory Tracking System application is installed via a Salesforce unmanaged package.  The installation instructions and user guide can be accessed at the following link:   More information on the Force.com IDE: https://developer.salesforce.com/page/Force.com_IDE
+The Naloxone Inventory Tracking System application is installed via a Salesforce unmanaged package.  The installation instructions and quick start guide can be accessed at the following link: https://sfdc.co/NITSApplication
 
 
 **Example: List View of Rx Orders**
