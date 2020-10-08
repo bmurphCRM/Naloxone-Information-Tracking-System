@@ -12,27 +12,23 @@ Community partner naloxone distribution centers such as law enforcement, emergen
 
 **Application Features**
 
-The Naloxone Inventory Tracking System is an Rx order and inventory management "virtual dispensary" application developed on the Salesforce Platform. It provides the State with an application that can manage and track the ordering, distribution, operations and grant funding related to its behavioral health opioid programs.  The application tracks the state’s funding levels and distribution of Naloxone to community partners, giving leadership the kind of data granularity that serves as the first step to solving any complex, larger-than-life problem.
-- Intake Management of Child Welfare Referrals
-- Documentation of Allegations, Victims, Offenders
-- Risk & Safety Assessments for Initial Screening Decisions
-- Investigation Managemnt (including mobile investigations)
-- Approval Processes (including mobile approvals)
-- Workflow Management
+The Naloxone Inventory Tracking System features include:
+- Submission of new Rx Orders by Community Partners
+- Rx Order Approvals by State Program Administrator
+- Logging of Rx Unit Movements: Receive, Issue, Transfer, Adjust
+- Managing and Tracking Grant Funding Sources
+- Reporting Rx Order Costs Against Grant Funding Sources
+- Tracking of Avaliable, On-Hand Inventory for each Distribution Center / Community Partner Account
+- Workflow Automation: Approvals, Email Notifications, Tasks
 - Reports
 - Dashboards
 - Global Search
-- Use of Salesforce Chatter for contextual social collaboration (multi-disciplinary teams)
-- Quick Actions to execute common tasks
-- Task and Activity Management
-- Calendaring
-- Salesforce1 Mobile Application (iOS/Andriod)
-- Data Model with custom objects:  Referral__c, Investigation__c, Assesment__c, Allegation__c
-- GIS Mapping with MapAnything from the Salesforce AppExchange
-
-The repository also includes a complete Developers Workshop Guide / Student Handbook that illustrates how this application was developed on the Force.com Platform.  The student guide takes the user through the entire lifecycle of developing the Central Intake application from spinning up a free Salesforce Developer Edition (DE) environment to creating the data model, business logic, workflow and reports/dashboards.  This guide documents the approach to how the application was developed.
+- Use of Salesforce Chatter for contextual social collaboration
+- Data Model with custom objects:  Rx_Orders__c, Units__c, Funcing_Source__c
 
 **Repository Contents and Documents:**
+
+
 
 Salesforce Metadata Folders - The Salesforce Force.com IDE Plugin for Eclipse was used to extract all of the Central Intake Management application metadata from the Salesforce Platform. You can use this metadata to fork, then sync to your own Salesforce org or you can use the full package installation in document #2 below.  More information on the Force.com IDE: https://developer.salesforce.com/page/Force.com_IDE
 
@@ -42,25 +38,20 @@ Salesforce Metadata Folders - The Salesforce Force.com IDE Plugin for Eclipse wa
 
 03 Salesforce Central Intake Management Application Developer Workshop - Student Guide.pdf - Complete documentation of how to build the Central Intake Management application with the Salesforce App Cloud (Force.com) platform from scratch in less than 1 day.
 
-**Video Demo of the Central Intake Application**
-- Part 1:  https://sfdc.co/G80ir
-- Part 2:  https://sfdc.co/cexXbg
-- Part 3:  https://sfdc.co/KoME7
+**Example: List View of Rx Orders**
 
-**Example Salesforce View List of Intake/Referral Records**
+![Dashboard](https://photos.smugmug.com/photos/i-bB39hzc/0/d268d64c/X3/i-bB39hzc-X3.jpg)
 
-![Dashboard](https://photos.smugmug.com/Other/Website-Images/n-xSsvZr/i-28wCRQS/0/62c52dbc/X2/i-28wCRQS-X2.jpg)
+**Example: Rx Order Details and Inventory Movements**
 
-**Example Salesforce Intake Record Detail View with Case Team Social Collaboration**
+![Dashboard](https://photos.smugmug.com/photos/i-znq3sRk/0/7b0f0452/X3/i-znq3sRk-X3.jpg)
 
-![Dashboard](https://photos.smugmug.com/Other/Website-Images/n-xSsvZr/i-tBkgBM9/0/d15cec42/X2/i-tBkgBM9-X2.jpg)
+**Example: Reports of All Rx Orders by Funding Source**
 
-**Example Salesforce Spatial Mapping of P1 & P2 Intake/Referral Records**
-
-![Dashboard](https://photos.smugmug.com/Other/Website-Images/n-xSsvZr/i-rth3cBv/0/92fdba68/X2/i-rth3cBv-X2.jpg)
+![Dashboard](https://photos.smugmug.com/photos/i-h5h428D/0/062e2a03/X3/i-h5h428D-X3.jpg)
 
 **Salesforce Contact**
-- Brian Murphy, Principal Solution Engineer
-- Salesforce Public Sector
-- 415-867-9525
-- b.murphy@salesforce.com
+Brian Murphy
+Master Solution Engineer
+Salesforce Public Sector
+b.murphy@salesforce.com
