@@ -2,13 +2,12 @@
 This Naloxone Information Tracking System (NITS) was built by the Salesforce Public Sector Solution Engineering team for the Nevada Department of Health & Human Services Division of Public and Behavioral Health (NV DHHS DPBH).  The application was implemented by Salesforce Consulting partner, Publicis Sapient.
 
 **Application Overview**
+The Naloxone Inventory Tracking System is an Rx order and inventory management "virtual dispensary" application developed on the Salesforce Platform. It provides the State with an application that can manage and track the ordering, distribution, operations and grant funding related to its behavioral health opioid programs.  The application tracks the state’s funding levels and distribution of Naloxone to community partners, giving leadership the kind of data granularity that serves as the first step to solving any complex, larger-than-life problem.
 
-Salesforce Metadata Folders - The Salesforce Force.com IDE Plugin for Ecl
+Community partner naloxone distribution centers such as law enforcement, emergency medical services, community based organizations, etc., participate in an onboarding process, and are invited to register an account where they can submit requests for Naloxone doses. Distribution centers can specify regular shipments -- much like any standard subscription model, or request large orders for special events, such as an information night, training event, or education fair. Each shipment is logged in the application against its funding source(s), providing information on which dollars are being used where, all across the state.
 
 
-This Child Welfare Central Intake Management Application was developed on the Salesforce Force.com (App Cloud) Platform and is being distributed as open source to any agency that may want to use it as an accelerator for SACWIS/CCWIS Intake Management modernization.  The application covers the reporting and documentation of incidents of alleged abuse and neglect to a state child welfare agency.  The application functionality covers:
-
-![Dashboard](https://photos.smugmug.com/Other/Website-Images/n-xSsvZr/i-hfHcznq/0/c52b7c7d/X2/i-hfHcznq-X2.jpg)
+![Dashboard](https://photos.smugmug.com/photos/i-4n3rxSr/0/ab93a909/X3/i-4n3rxSr-X3.jpg)
 
 - Intake Management of Child Welfare Referrals
 - Documentation of Allegations, Victims, Offenders
